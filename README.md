@@ -29,9 +29,11 @@ AI customer support agent using Amazon Bedrock AgentCore and the Strands SDK. Th
 
 <h3> 🛠️ Technical Stack & Focus Areas</h3>
 
-Web/FrontEnd Development: HTML,CSS,JavaScript,Bootstrap,WordPress,Android
-BackEnd Development: Java
-AI & Data: Agentic AI Workflows, Business Intelligence, Data Analysis
+* Web/FrontEnd Development: HTML,CSS,JavaScript,Bootstrap,WordPress,Android
+
+* BackEnd Development: Java
+
+* AI & Data: Agentic AI Workflows, Business Intelligence, Data Analysis
 
 
 <h3> 📫 Connect With Me</h3>
