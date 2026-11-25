@@ -29,9 +29,9 @@ I'm a Web Developer transitioned into Android Application Developer, Java Backen
 <h3> 🔭 I’m currently working on ...</h3>
 AI customer support agent using Amazon Bedrock AgentCore and the Strands SDK. The agent serves as an intelligent interface between customers and an e-commerce platform, handling complex multi-turn conversations while maintaining context across sessions.
 
-<h3> <img width="40" height="40" alt="opensourceinitiative" src="https://github.com/user-attachments/assets/e5af5064-a370-433c-bef1-a449d22bc796" />
+<h3> <img width="20" height="20" alt="opensourceinitiative" src="https://github.com/user-attachments/assets/e5af5064-a370-433c-bef1-a449d22bc796" />
  My OpenSource Contribution</h3>
-I have contributed to [Mifos Initiative's](https://github.com/openMF) OpenSource field officer app.
+I have contributed to Mifos Initiative's OpenSource field officer app.
 My commits can be viewed from here.
 https://github.com/openMF/mifos-x-field-officer-app/commits?author=bnasim
 
