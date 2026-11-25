@@ -18,7 +18,7 @@ Hi, I'm Nasim Banu 👋
 
 I'm a Web Developer transitioned into Android Application Developer, Java Backend Developer. Now learning & developing Agentic AI with Google ADK, Amazon Bedrock, Amazon QuickSight, Microsoft Copilot Studio.
 
-🚀 <h3>Featured Projects</h3>
+<h3> 🚀 Featured Projects</h3>
 
 * <b>Revenue Intelligence Dashboard for NovaTech Solutions </b> — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
 
