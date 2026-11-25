@@ -21,6 +21,7 @@ I'm a Web Developer transitioned into Android Application Developer, Java Backen
 🚀 Featured Projects
 
 Revenue Intelligence Dashboard (NovaTech Solutions) — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
+
 Teaching an LLM to Count — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
 
 🔭 I’m currently working on ...
