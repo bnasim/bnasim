@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Nasim Banu 👋
+
 I'm a Web Developer transitioned into Android Application Developer, Java Backend Developer. Now learning & developing Agentic AI with Google ADK, Amazon Bedrock, Amazon QuickSight, Microsoft Copilot Studio.
 
 🚀 Featured Projects
@@ -33,5 +34,7 @@ AI & Data: Agentic AI Workflows, Business Intelligence, Data Analysis
 
 
 📫 Connect With Me
+
 💼 LinkedIn: linkedin.com/in/nasimbanu
+
 💻 GitHub: github.com/bnasim
