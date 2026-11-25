@@ -22,7 +22,7 @@ I'm a Web Developer transitioned into Android Application Developer, Java Backen
 
 * <b>[Revenue Intelligence Dashboard for NovaTech Solutions](https://github.com/bnasim/Revenue-Intelligence-Dashboard) </b> — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
 
-* <b>Teaching an LLM to Count </b> — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
+* <b>[Teaching an LLM to Count](https://github.com/bnasim/Teaching-LLM-to-Count) </b> — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
 
 <h3> 🔭 I’m currently working on ...</h3>
 AI customer support agent using Amazon Bedrock AgentCore and the Strands SDK. The agent serves as an intelligent interface between customers and an e-commerce platform, handling complex multi-turn conversations while maintaining context across sessions.
