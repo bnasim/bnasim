@@ -24,6 +24,8 @@ I'm a Web Developer transitioned into Android Application Developer, Java Backen
 
 * <b>[Teaching an LLM to Count](https://github.com/bnasim/Teaching-LLM-to-Count) </b> — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
 
+* * <b>[AI Powered Productivity with Microsoft 365 Copilot](https://github.com/bnasim/AI-Powered-Productivity-with-Microsoft-365-Copilot) </b> — Implementing Workflows for Analysis and Reporting with Microsoft 365 Copilot
+
 <h3> 🔭 I’m currently working on ...</h3>
 AI customer support agent using Amazon Bedrock AgentCore and the Strands SDK. The agent serves as an intelligent interface between customers and an e-commerce platform, handling complex multi-turn conversations while maintaining context across sessions.
 
