@@ -20,7 +20,7 @@ I'm a Web Developer transitioned into Android Application Developer, Java Backen
 
 <h3> 🚀 Featured Projects</h4>
 
-* <b>Revenue Intelligence Dashboard for NovaTech Solutions </b> — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
+* <b>[Revenue Intelligence Dashboard for NovaTech Solutions](https://github.com/bnasim/Revenue-Intelligence-Dashboard) </b> — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
 
 * <b>Teaching an LLM to Count </b> — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
 
