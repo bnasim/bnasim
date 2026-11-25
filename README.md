@@ -18,24 +18,24 @@ Hi, I'm Nasim Banu 👋
 
 I'm a Web Developer transitioned into Android Application Developer, Java Backend Developer. Now learning & developing Agentic AI with Google ADK, Amazon Bedrock, Amazon QuickSight, Microsoft Copilot Studio.
 
-🚀 Featured Projects
+🚀 <h3>Featured Projects</h3>
 
-Revenue Intelligence Dashboard (NovaTech Solutions) — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
+* <b>Revenue Intelligence Dashboard for NovaTech Solutions </b> — Built an interactive Business Intelligence dashboard to track revenue metrics and surface actionable insights.
 
-Teaching an LLM to Count — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
+* <b>Teaching an LLM to Count </b> — Teach an instruction-tuned LLM to perform perfect, step-by-step reasoning for a specific task: counting the occurrences of a letter in a word.
 
-🔭 I’m currently working on ...
+🔭 <h3>I’m currently working on ...</h3>
 AI customer support agent using Amazon Bedrock AgentCore and the Strands SDK. The agent serves as an intelligent interface between customers and an e-commerce platform, handling complex multi-turn conversations while maintaining context across sessions.
 
-🛠️ Technical Stack & Focus Areas
+🛠️ <h3>Technical Stack & Focus Areas</h3>
 
 Web/FrontEnd Development: HTML,CSS,JavaScript,Bootstrap,WordPress,Android
 BackEnd Development: Java
 AI & Data: Agentic AI Workflows, Business Intelligence, Data Analysis
 
 
-📫 Connect With Me
+📫 <h3>Connect With Me</h3>
 
-💼 LinkedIn: linkedin.com/in/nasimbanu
+💼 <b>LinkedIn:</b> linkedin.com/in/nasimbanu
 
-💻 GitHub: github.com/bnasim
+💻 <b>GitHub:</b> github.com/bnasim
